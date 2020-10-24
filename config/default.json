@@ -1,3 +1,4 @@
 {
-    "mongoURI": "mongodb+srv://t-admin:t-admin123@mern-dev-course.4aomi.mongodb.net/<dbname>?retryWrites=true&w=majority"
+    "mongoURI": "mongodb+srv://t-admin:t-admin123@mern-dev-course.4aomi.mongodb.net/<dbname>?retryWrites=true&w=majority",
+    "jwtSecret": "mysecrettoken"
 }
